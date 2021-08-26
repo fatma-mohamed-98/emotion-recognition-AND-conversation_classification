@@ -17,6 +17,17 @@ But for short sentences, it is only moderately slower. And our application we ha
 choose this architecture (universal-sentence-encoder-large-5).
 
 
+# Results:
+### Confusion_Matrix for emotion recognition task using USE on DailyDialoge dataset
+![Confusion_Matrix for emotion recognition task using USE on DailyDialoge dataset](https://github.com/fatma-mohamed-98/emotion-recognition-AND-conversation_classification/blob/main/confusion%20matrix.png )
+
+### F1_Score for emotion recognition task using USE on DailyDialoge dataset
+![F1_Score for emotion recognition task using USE on DailyDialoge dataset](https://github.com/fatma-mohamed-98/emotion-recognition-AND-conversation_classification/blob/main/F1_Score.png)
+
+
+### Accuracy for emotion recognition task using USE on DailyDialoge dataset
+![Accuracy for emotion recognition task using USE on DailyDialoge dataset](https://github.com/fatma-mohamed-98/emotion-recognition-AND-conversation_classification/blob/main/Accuracy.png)
+
 
 
 
